@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Chris Christian 👋
 
-<!--
-**Chris-Christian/Chris-Christian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Engineering  
+🔐 Junior Penetration Tester | Offensive Security Enthusiast  
+🥇 TryHackMe Top 3% | Actively learning via PortSwigger Academy  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I’m currently pursuing a Bachelor’s in Computer Engineering at the Institute of Advanced Research.  
+My core interest lies in **offensive security**, especially **penetration testing** and **ethical hacking**.  
+
+Currently working through PortSwigger Academy’s learning paths to build strong fundamentals in web application security.  
+
+My long-term goal is to become a skilled **Penetration Tester**, helping organizations uncover vulnerabilities before attackers do.
+
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-christian-73794727b/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chris.christian232005)
+
+---
+
+## 📊 GitHub Stats
+
+![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chris-Christian&show_icons=true&theme=default&hide_title=true)
+
+---
+
+> “Security is not a product, but a process.” – Bruce Schneier
