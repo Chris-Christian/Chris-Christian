@@ -2,7 +2,7 @@
 
 🎓 B.Tech in Computer Engineering  
 🔐 Junior Penetration Tester | Offensive Security Enthusiast  
-🥇 TryHackMe Top 3% | Actively learning via PortSwigger Academy  
+🥇 Certified in Ethical Hacking (Top Performer - 90%) | Actively learning via PortSwigger Academy  
 
 ---
 
