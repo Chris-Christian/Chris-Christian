@@ -28,10 +28,6 @@ My long-term goal is to become a skilled **Penetration Tester**, helping organiz
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chris-Christian&show_icons=true&theme=dracula)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Chris-Christian&theme=dracula)
-
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chris-Christian&theme=dracula)
-
 ---
 
 > “Security is not a product, but a process.” – Bruce Schneier
