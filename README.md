@@ -26,7 +26,7 @@ My long-term goal is to become a skilled **Penetration Tester**, helping organiz
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chris-Christian&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chris%E2%80%90Christian&show_icons=true&theme=dracula)
 
 ---
 
