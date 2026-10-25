@@ -1,19 +1,18 @@
 # Hi, I'm Chris Christian 👋
 
-🎓 B.Tech in Computer Engineering  
-🔐 Junior Penetration Tester | Offensive Security Enthusiast  
-🥇 Certified in Ethical Hacking (Top Performer - 90%) | Actively learning via PortSwigger Academy  
+🎓 B.Tech in Computer Engineering
+🔐 Security Engineering | Cybersecurity Research
+🛠️ Building Security Tools & Exploring How Systems Break
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m currently pursuing a Bachelor’s in Computer Engineering at the Institute of Advanced Research.  
-My core interest lies in **offensive security**, especially **penetration testing** and **ethical hacking**.  
-
-Currently working through PortSwigger Academy’s learning paths to build strong fundamentals in web application security.  
-
-My long-term goal is to become a skilled **Penetration Tester**, helping organizations uncover vulnerabilities before attackers do.
+I am currently pursuing a Bachelor's in Computer Engineering at the Institute of Advanced Research because of my keen interest in technology and its evolving landscape.
+ 
+I have built a strong foundation in offensive security, with hands-on experience in VAPT and ethical hacking. This gives me an attacker's view of how systems fail, which I now apply to building secure ones.
+ 
+My goal is to become a Security Engineer, working on cloud security and DevSecOps to build systems that are secure by design.
 
 ---
 
