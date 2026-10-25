@@ -1,7 +1,9 @@
 # Hi, I'm Chris Christian 👋
 
 🎓 B.Tech in Computer Engineering
+
 🔐 Security Engineering | Cybersecurity Research
+
 🛠️ Building Security Tools & Exploring How Systems Break
 
 ---
