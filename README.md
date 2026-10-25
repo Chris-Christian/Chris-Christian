@@ -19,6 +19,7 @@ My long-term goal is to become a skilled **Penetration Tester**, helping organiz
 
 ## 📬 Connect with Me
 
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/real_Chris_01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-christian-73794727b/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chris.christian232005)
 
