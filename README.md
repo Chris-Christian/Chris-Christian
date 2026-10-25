@@ -6,7 +6,7 @@
 
 🛠️ Building Security Tools & Exploring How Systems Break
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -16,7 +16,7 @@ I have built a strong foundation in offensive security, with hands-on experience
  
 My goal is to become a Security Engineer, working on cloud security and DevSecOps to build systems that are secure by design.
 
----
+
 
 ## 📬 Connect with Me
 
