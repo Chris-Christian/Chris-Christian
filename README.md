@@ -24,12 +24,12 @@ My goal is to become a Security Engineer, working on cloud security and DevSecOp
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-christian-73794727b/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chris.christian232005)
 
----
+
 
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Chris-Christian)](https://git.io/streak-stats)
 
----
+
 
 > “Security is not a product, but a process.” – Bruce Schneier
